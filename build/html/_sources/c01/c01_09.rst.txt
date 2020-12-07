@@ -1,0 +1,4 @@
+1.10 合作高校
+>>>>>>>>>>>>>>>>>>>>>>
+.. figure:: _static/images/Cooperative_University.jpg
+   :alt: 

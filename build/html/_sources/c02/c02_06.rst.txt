@@ -1,0 +1,8 @@
+2.6 地质调查研究
+----------------------
+
+-  雄安新区
+
+.. figure:: _static/images/Xiong'an_New_District.jpg
+   :alt: 雄安新区
+

@@ -1,0 +1,8 @@
+2.3 市政管线探测
+-------------------------
+
+-  深圳市政管线探测
+
+.. figure:: _static/images/Shenzhen_Municipal_Pipeline.jpg
+   :alt: 深圳市政管线
+

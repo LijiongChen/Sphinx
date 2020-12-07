@@ -1,0 +1,13 @@
+2.2 不良地质体探测
+----------------------------
+
+-  贵阳某地铁溶洞探测
+
+.. figure:: _static/images/Guiyang_Metro.jpg
+   :alt: 贵阳地铁
+
+-  厦门某地铁基岩凸起及“孤石”探测
+
+.. figure:: _static/images/Xiamen_Metro.jpg
+   :alt: 厦门地铁
+

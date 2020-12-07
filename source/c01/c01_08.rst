@@ -1,0 +1,5 @@
+1.9 合作企业
+>>>>>>>>>>>>>>>>>>>>>>
+.. figure:: _static/images/Cooperative_Company.jpg
+   :alt: 
+

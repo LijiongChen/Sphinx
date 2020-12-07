@@ -1,0 +1,20 @@
+2.7 地下渗水探测
+----------------------------
+
+-  高精度红外热成像技术
+
+.. figure:: _static/images/Infrared_thermal_imaging.jpg
+   :alt: 红外热成像
+
+
+-  阵列式超声层析成像技术
+
+.. figure:: _static/images/Tomography.jpg
+   :alt: 层析成像
+
+
+-  探地雷达技术
+
+.. figure:: _static/images/Ground_penetrating_radar.jpg
+   :alt: 探地雷达
+
